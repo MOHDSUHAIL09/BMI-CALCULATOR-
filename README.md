@@ -1,4 +1,0 @@
-# BMI-CALCULATOR-
-BMI CALCULATOR .....
-
-
