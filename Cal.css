@@ -1,0 +1,42 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  background-color: #f8e7cc;
+}
+.container {
+  width: 675px;
+  height: 825px;
+  text-align: center;
+  padding: 50px
+}
+#height,
+#weight {
+  width: 150px;
+  height: 25px;
+  margin-top: 30px;
+}
+
+#result {
+  font-size: 35px;
+  margin-left: 100px;
+  margin-top: 20px;
+  color: black;
+}
+
+button {
+  width: 165px;
+  height: 35px;
+  margin-left: 110px;
+  margin-top: 25px;
+  background-color: #fff;
+  padding: 1px 30px;
+  color: #212121;
+  text-decoration: none;
+  border: 2px solid #212121;
+  font-size: 20px;
+}
+button:hover{
+  color: orange;
+}
